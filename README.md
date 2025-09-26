@@ -49,11 +49,6 @@ Output – Ranked list of candidates best matching the job profile.
 
 🚀 How to Run
 
-Clone the repo:
-
-git clone https://github.com/yourusername/automated-resume-screening.git
-cd automated-resume-screening
-
 
 Install dependencies:
 
