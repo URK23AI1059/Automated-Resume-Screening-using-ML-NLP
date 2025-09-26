@@ -80,4 +80,4 @@ Add web dashboard for recruiters.
 
 👨‍💻 Author
 
-Developed by [Jeevanandh M] – Passionate about AI, NLP, and Recruitment Tech.
+Developed by Jeevanandh M – Passionate about AI, NLP, and Recruitment Tech.
